@@ -21,8 +21,9 @@ import { cn } from "@/lib/utils"
 
 const navLinks = [
   { label: "Browse Jobs", href: "/jobs" },
-  { label: "Company", href: "/company" },
+  { label: "Companies", href: "/companies" },
   { label: "Pricing", href: "/pricing" },
+  { label: "Dashboard", href: "/dashboard/seeker" },
 ]
 
 const ctaClassName =
